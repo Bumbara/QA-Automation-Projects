@@ -1,0 +1,7 @@
+
+
+java:S1488	"_Immediately return this expression instead of assigning it to the temporary variable "element".(ºĞÔÄıÿÿÿÿ8ã’íç0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÅÏï8ó’íç0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æÈëûÿÿÿÿ8ô’íç0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(·„Ûô8ö’íç0
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(Ê†×²8ø’íç0
