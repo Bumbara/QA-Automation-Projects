@@ -1,0 +1,17 @@
+
+
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "element".(ºĞÔÄıÿÿÿÿ8•ÙÄìé0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(İÁ€óúÿÿÿÿ8ÁÙÄìé0
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(äğÙ¤ıÿÿÿÿ8ÂÙÄìé0
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ÿ‰ßÄ8ÄÙÄìé0
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(Ì²ƒ¨8ÅÙÄìé0
+X
+java:S1854M";Remove this useless assignment to local variable "actions".(Œçá€8ÆÙÄìé0
+X	java:S125@"<This block of commented-out lines of code should be removed.(âÊãÀ8ÉÙÄìé0
+X	java:S125R"<This block of commented-out lines of code should be removed.(âÊãÀ8ÏÙÄìé0
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(«ñ‹½ùÿÿÿÿ8ÑÙÄìé0
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(ó¯©˜ıÿÿÿÿ8ÒÙÄìé0
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(Ÿ¶°çúÿÿÿÿ8ÔÙÄìé0
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(›ÀüÇıÿÿÿÿ8ÔÙÄìé0
+`
+java:S1128"CRemove this unused import 'org.openqa.selenium.JavascriptExecutor'.(Ë‚«»8×ÙÄìé0
